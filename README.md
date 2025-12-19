@@ -1,2 +1,9 @@
-# Base-de-donn-e
-Bases de données : cours complet + résumés en annexe - SQL, modélisation relationnelle .  Élèves de 3ème année-4ème année 
+
+# Bases de Données - Cours & Résumés
+
+Cours complet sur les bases de données avec annexe contenant des résumés synthétiques. Parfait pour la révision et la compréhension des concepts fondamentaux.
+## 📁 Contenu
+- **Cours détaillé** sur les bases de données
+- **Annexe PDF** avec résumés et schémas
+
+
