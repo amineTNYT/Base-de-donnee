@@ -5,5 +5,7 @@ Cours complet sur les bases de données avec annexe contenant des résumés synt
 ## 📁 Contenu
 - **Cours détaillé** sur les bases de données
 - **Annexe PDF** avec résumés et schémas
-
+# telecharger les fichier suivante
+sql annexe file.pdf
+a    file.pdf
 
